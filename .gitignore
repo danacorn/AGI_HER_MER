@@ -6,3 +6,8 @@ __pycache__/
 # run_unimodal.py
 *.csv
 *.ipynb
+run_bimodal.py
+run_MKD.py
+run_unimodal.py
+run.py
+run*
